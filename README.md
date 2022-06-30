@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carlosvargas-gd
+- 👋 Hi, I’m @carlosvargas-godaddy
 - 👀 I’m interested in mobile and backend technologies
 - 🌱 I’m currently learning React and Javascript
 - 💞️ I’m looking to collaborate on mobile projects
